@@ -1,4 +1,4 @@
-# Semantic Web, Linked Data, and Knowledge Graphs 2020-2021
+# Semantic Web, Linked Data, and Knowledge Graphs 2020-2021..
 
 
 This is the repository that we will use for our collaborative work and for uploading all the assignments for our course.
